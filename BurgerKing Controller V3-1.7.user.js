@@ -3,7 +3,7 @@
 // @description         BurgerKing Eğitim Videolarını Geçme Amaçlı Yazılmıştır.
 // @version             1.7
 // @author              GizliBKPersoneli :)
-// @namespace           io.github.ni554n
+// @namespace           io.github.Bas3m0de
 // @match               *://*/*
 // @grant               none
 // ==/UserScript==
