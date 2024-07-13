@@ -58,6 +58,6 @@ function handleVideoEnded() {
         newVideo.playbackRate = 15.75;
         newVideo.play();
       }
-    }, 2000); // 2 saniye bekleyip hızı ve videoyu tekrar ayarlayalım
+    }, 2000); 
   }
 }
